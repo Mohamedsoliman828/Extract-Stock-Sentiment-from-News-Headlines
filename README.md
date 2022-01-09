@@ -21,4 +21,4 @@ Articles are <em>automatically</em> being generated from figures and earnings ca
 - Matplotlib <br> <br>
   
   
-  ### Check the <a href='https://github.com/Mohamedsoliman828/comprehensive-analysis-of-the-Android-app-market/blob/main/notebook.ipynb' > Notebook </a> for detailed description
+  ### Check the <a href='https://github.com/Mohamedsoliman828/Extract-Stock-Sentiment-from-News-Headlines/blob/main/notebook.ipynb' > Notebook </a> for detailed description
