@@ -18,4 +18,7 @@ Articles are <em>automatically</em> being generated from figures and earnings ca
 - SentimentIntensityAnalyzer <br>
 - Nltk <br>
 - Pandas <br>
-- Matplotlib <br>
+- Matplotlib <br> <br>
+  
+  
+  ### Check the <a href='https://github.com/Mohamedsoliman828/comprehensive-analysis-of-the-Android-app-market/blob/main/notebook.ipynb' > Notebook </a> for detailed description
