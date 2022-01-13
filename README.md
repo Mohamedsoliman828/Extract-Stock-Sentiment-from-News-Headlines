@@ -15,7 +15,6 @@ Articles are <em>automatically</em> being generated from figures and earnings ca
 
 <strong> <p1> dependencies <p1> <br>
 - BeautifulSoup <br>
-- SentimentIntensityAnalyzer <br>
 - Nltk <br>
 - Pandas <br>
 - Matplotlib <br> <br>
